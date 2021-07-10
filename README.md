@@ -27,7 +27,7 @@ Sie soll den Studenten auf eine einfache Art und Weise ermöglichen, Ihre Projek
 
 Wenn du Storytellr.js lokal in dein Projekt einbinden möchtest, dann kannst du die Bibliothek hier herunterladen.
 
-<a href="https://github.com/FrankZinsli/Storytellr.js/archive/refs/heads/main.zip">
+<a href="https://github.com/FrankZinsli/Storytellr.js/archive/refs/heads/master.zip">
   Download
 </a>
 
