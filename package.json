@@ -1,0 +1,19 @@
+{
+  "name": "storytellr.js",
+  "version": "1.0.0",
+  "description": "Die JavaScript-Bibliothek für Geschichtenerzähler. Entwickelt für MMP-Studenten und basiert auf dem Leitfaden für Storytelling auf Webseiten.",
+  "main": "storytellr.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankZinsli/Storytellr.js.git"
+  },
+  "author": "Frank Zinsli (https://frankzinsli.ch)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FrankZinsli/Storytellr.js/issues"
+  },
+  "homepage": "https://storytellr.netlify.app"
+}
